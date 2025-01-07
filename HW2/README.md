@@ -17,7 +17,7 @@ This repository contains the implementation of Homework 2 for the **Big Data Com
 #### SequentialFFT
 - **Input**: A set of points (list) and an integer \( K \).
 - **Output**: A list of \( K \) cluster centers.
-- **Complexity**: \( O(|P| \cdot K) \).
+- **Complexity**: \( O(|P|.K) \).
 
 #### MRFFT
 - **Input**: An RDD of points and an integer \( K \).
